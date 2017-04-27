@@ -1,0 +1,1 @@
+{"user.dir":"/home/angel/Documentos/Project/workspaces/Test1/technologies"}
